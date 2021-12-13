@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @medijay
-- 👀 I’m interested in ...HTML,CSS and javascript
-- 🌱 I’m currently learning ...CSS
+- 👀 I’m interested in ...CSS and javascript
+- 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...front end web development
 - 📫 How to reach me ..medijay99@yahoo.com
 
